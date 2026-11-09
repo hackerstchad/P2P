@@ -1,7 +1,5 @@
 # P2P Chat Secure — par HackestChad
 
-Une application de messagerie pair-à-pair (P2P) avancée, écrite en Python, avec interface graphique Tkinter, profils personnalisés, appels vocaux simulés, transferts de fichiers et chiffrement de bout en bout.
-
 ## Fonctionnalités
 
 - Connexion directe P2P via IP publique/privée et port configurables.
